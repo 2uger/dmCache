@@ -39,4 +39,3 @@ module cache_tag_store(input logic clk,
         end
     end
 endmodule
-
